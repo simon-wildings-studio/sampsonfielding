@@ -1,0 +1,13 @@
+User-agent: GPTBot\
+Allow: /\
+\
+User-agent: ClaudeBot\
+Allow: /\
+\
+User-agent: *\
+Disallow: /config\
+Disallow: /search\
+Allow: /\
+\
+Sitemap: https://sampsonfielding.co.uk/sitemap.xml\
+Host: www.sampsonfielding.co.uk
